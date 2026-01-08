@@ -121,8 +121,6 @@ Access the application at: http://localhost:8080/SwiftBites
 
 
 
-<br>
-<p align="center">
-<img src="https://github.com/user-attachments/assets/a5093dc5-ace2-4f63-8b8b-be50a2b9b845" width="800"> </p>
-<br>
+## Login Page
+![Login Page](login.png)
 
