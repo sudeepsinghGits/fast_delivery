@@ -15,11 +15,13 @@ This page allows new users to create an account on the Swift Bites platform. It 
 ![Register Page](image/register.png)
 
 
-### 🏠 Application Home Page
-The Home Page serves as the central hub of Swift Bites, where users can explore various restaurants and their curated menus and you can logout too..
+ ### 🏪 Restaurant page
+ Explore the restaurants according to ratings
 
 
-![Logout Page](image/logout.png)
+![Restaurant page](image/rest.png)
+
+
 
 
 ### 🔍 Dynamic Search Interface
@@ -27,11 +29,3 @@ Swift Bites includes a powerful search functionality that allows users to find t
 
 
 ![Search Page](image/search.png)
-
-
- ### 🏪 Restaurant page
- Explore the restaurants according to ratings
-
-
-![Restaurant page](image/rest.png)
-
