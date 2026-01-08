@@ -124,7 +124,5 @@ Access the application at: http://localhost:8080/SwiftBites
 ## Login Page
 
 
-
-
 ![Login Page](login.png)
 
