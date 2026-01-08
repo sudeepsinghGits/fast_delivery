@@ -120,8 +120,9 @@ Right-click the project and select Run As > Run on Server.
 Access the application at: http://localhost:8080/SwiftBites
 
 
-## Login Page
 
-![Login Page](login.png)
+
+![Login Page](./login.png)
+
 
 
