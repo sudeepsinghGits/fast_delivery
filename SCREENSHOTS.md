@@ -5,4 +5,4 @@ This is the main entry point of the Swift Bites application. It uses a clean, ca
 
 
 
-![Login Page](login.png)
+![Login Page](image/login.png)
