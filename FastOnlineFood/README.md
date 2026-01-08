@@ -67,3 +67,8 @@ Follow these steps to get the project running on your local machine:
 5. Deploy and Run
    Right-click the project and select Run As > Run on Server.
    Access the application at: http://localhost:8080/SwiftBites
+
+
+
+<img width="1054" height="867" alt="Screenshot 2026-01-08 143617" src="https://github.com/user-attachments/assets/40d72244-6f55-4d7b-a317-c8d476cd3751" />
+
