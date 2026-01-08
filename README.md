@@ -121,3 +121,4 @@ Access the application at: http://localhost:8080/SwiftBites
 
 
 
+<img width="1054" height="867" alt="Screenshot 2026-01-08 143617" src="https://github.com/user-attachments/assets/67cdda2c-be89-4a3a-bfee-7513b4ff563e" />
