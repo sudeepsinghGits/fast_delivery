@@ -21,6 +21,6 @@ git clone [https://github.com/sudeepsinghGits/fast_delivery.git](https://github.
 
 
 
-![Login Page](login.png)
+![Login Page](https://github.com/sudeepsinghGits/fast_delivery/blob/master/login.png))
 
 
