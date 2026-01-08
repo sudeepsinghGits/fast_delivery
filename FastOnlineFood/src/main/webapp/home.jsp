@@ -141,8 +141,7 @@
                 <% if(session.getAttribute("loggedInUser") == null) { %>
                     <a href="login.jsp">Sign In</a>
                 <% } else { %>
-                    <a href="logout">Logout</a>
-                <% } %>
+<a href="logout" ; font-weight: bold;">Logout</a>                <% } %>
             </div>
         </nav>
 
