@@ -1,6 +1,6 @@
 # Project Screenshots
 
-### Login Page
+### 🔑 Login Page
 This is the main entry point of the Swift Bites application. It uses a clean, card-based layout.
 
 
